@@ -1,0 +1,27 @@
+.addHomepage {
+    padding: 24px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+    margin: 50px auto;
+    max-width: 40%;
+}
+.addHomepage h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-style: oblique;
+    font-weight: 800;
+}
+.addHomepage button{
+    text-align: center;
+    flex-direction: column;
+    margin-top: 12px;
+    width: 100%;
+    padding: 12px;
+    background: rgb(159, 159, 255);
+    color: white;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 800;
+    border-radius: 12px;
+    cursor: pointer;
+}
